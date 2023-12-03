@@ -1,0 +1,85 @@
+.root {
+    
+    border: 1px solid #dedede;
+    margin: 20px 0;
+    border-radius: 20px;
+   
+}
+
+/* .field {
+    margin-bottom: 20px !important;
+} */
+
+
+.imageContainer {
+    position: relative;
+    overflow: hidden;
+    max-height: 100%; /* Максимальная высота контейнера (можете настроить по своему усмотрению) */
+  }
+  
+  /* Стили для изображения */
+  .image { 
+    border-radius: 20px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    width: 100%; /* Изображение подстраивается по ширине контейнера */
+    height: auto; /* Автоматическая высота, чтобы сохранить пропорции */
+  }
+.price {
+    text-align: left !important;
+    font-weight: bolder;
+    
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20px;
+
+    
+}
+.topText{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    
+}
+.statusStyle{
+    text-align: left !important;
+    font-weight: 500;
+    
+    font-size:medium;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 5px;
+
+}
+.pointStyle{
+    border-radius: 100%;
+    height: 7px;
+    width: 7px;
+    border: 1px solid green;
+    background-color: green;
+    margin-bottom: 3px;
+}
+.numberOfRoomStyle{
+    text-align: left !important;
+    font-weight:100;
+    margin-left: 20px;
+    
+   
+    font-size:medium;
+    margin-top: auto;
+
+}
+.boldNumber{
+    font-weight: bold;
+    font-size:large;
+}
+
+.adressStyleFull p{
+    margin-left: 20px;
+    font-weight: 100;
+    font-size:medium;
+}
+.adressStyle{
+    
+    margin-top:-1rem;
+}

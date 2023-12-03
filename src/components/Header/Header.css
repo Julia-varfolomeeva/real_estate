@@ -1,0 +1,33 @@
+
+.large-screen {
+    display: none; /* Скрыть элемент по умолчанию */
+  }
+  
+  @media (min-width: 1400px) {
+    .large-screen {
+      display: block; /* Показать элемент на больших экранах */
+    }
+  }
+
+ 
+.table-screen {
+    display: none; /* Скрыть элемент по умолчанию */
+  }
+  
+  @media (min-width: 1100px) {
+    .table-screen {
+      display: block; /* Показать элемент на больших экранах */
+    }
+  }
+
+  .login-screen {
+    display: none; /* Скрыть элемент по умолчанию */
+    justify-content: flex-end;
+  }
+  
+  @media (min-width: 500px) {
+    .login-screen {
+      display: flex; /* Показать элемент на больших экранах */
+      justify-content: flex-end;
+    }
+  }
