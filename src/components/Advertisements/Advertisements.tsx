@@ -69,6 +69,7 @@ const Advertise = ({
             })}
             src={imageUrl}
             alt={price}
+            
           />
         )}
       </Grid>
