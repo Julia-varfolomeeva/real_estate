@@ -31,12 +31,12 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-<<<<<<< HEAD
+
   "homepage": "https://julia-varfolomeeva.github.io/real_estate",
 
-=======
+
   
->>>>>>> gh-pages
+
   "eslintConfig": {
     "extends": [
       "react-app",
