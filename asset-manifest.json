@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/real_estate/static/css/main.eb77429a.css",
+    "main.js": "/real_estate/static/js/main.1fc7e8d2.js",
+    "static/media/rdc-logo-default.svg": "/real_estate/static/media/rdc-logo-default.280194b01529b42f473c399ac3162dc8.svg",
+    "static/media/condo.svg": "/real_estate/static/media/condo.339fd8310be48d8cb56f90f5115e5332.svg",
+    "static/media/land.svg": "/real_estate/static/media/land.74e187004c9f953e7d659dc8ce10b7a6.svg",
+    "static/media/multifamily.svg": "/real_estate/static/media/multifamily.f5c8d1e601270ffe339226231177e2af.svg",
+    "static/media/condop.svg": "/real_estate/static/media/condop.13e154d666d3c18ff34ba0904c5aeb1a.svg",
+    "static/media/mobile.svg": "/real_estate/static/media/mobile.d3491e7750aa82f4fdb50d2079931f03.svg",
+    "static/media/farm.svg": "/real_estate/static/media/farm.0b98eb50f332010cea05cc605a4ab3eb.svg",
+    "static/media/co-op.svg": "/real_estate/static/media/co-op.5ccb4180cd688999462d119f86c2bfd5.svg",
+    "static/media/house.svg": "/real_estate/static/media/house.c642613f3eb094fe5bf085cb7cd1f07a.svg",
+    "index.html": "/real_estate/index.html",
+    "static/media/townhome.svg": "/real_estate/static/media/townhome.7c24cf140dcbcfb3d195bd682d192481.svg",
+    "static/media/any.svg": "/real_estate/static/media/any.e69136f64f7c701dbd1b50c7f852f78c.svg",
+    "main.eb77429a.css.map": "/real_estate/static/css/main.eb77429a.css.map",
+    "main.1fc7e8d2.js.map": "/real_estate/static/js/main.1fc7e8d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb77429a.css",
+    "static/js/main.1fc7e8d2.js"
+  ]
+}
