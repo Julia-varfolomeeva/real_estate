@@ -31,9 +31,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  
   "homepage": "https://julia-varfolomeeva.github.io/real_estate",
-
   "eslintConfig": {
     "extends": [
       "react-app",
